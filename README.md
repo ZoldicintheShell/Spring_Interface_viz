@@ -1,4 +1,5 @@
 # Spring_Interface_viz
+
 A simple interface to play with [mass ⥈ spring] system </br>
 In this example, we use the Plotly Figure and Scatter classes to create a plot of the position of the mass over time. We use the Streamlit slider function to allow the user to modify the mass, spring constant, and damping coefficient from the app.
 
@@ -13,3 +14,6 @@ pip install https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/r
 ```
 streamlit run https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/Spring_Interface_viz.py
 ```
+
+References: </br>
+streamlit: https://streamlit.io/cloud
