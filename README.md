@@ -1,6 +1,6 @@
 # Spring_Interface_viz
 
-`==CI-Developpement Software: v1.0==
+`==CI-Developpement Software: v1.0==` </br>
 A simple interface to play with [mass ⥈ spring] system </br>
 In this example, we use the Plotly Figure and Scatter classes to create a plot of the position of the mass over time. We use the Streamlit slider function to allow the user to modify the mass, spring constant, and damping coefficient from the app.
 
