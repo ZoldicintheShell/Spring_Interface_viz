@@ -1,7 +1,4 @@
 import streamlit as st
-# Install the plotly package
-subprocess.check_call(['pip', 'install', 'plotly'])
-
 import numpy as np
 import plotly.graph_objects as go
 
