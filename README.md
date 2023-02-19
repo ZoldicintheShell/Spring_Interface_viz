@@ -6,6 +6,6 @@ We update the Plotly layout to set the x and y axis labels and the plot title. F
 
 ## to run the code:
 
-"""
-streamlit run https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/Spring_Interface_viz.py
-"""
+
+> streamlit run https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/Spring_Interface_viz.py
+
