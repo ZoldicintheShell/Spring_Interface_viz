@@ -4,7 +4,11 @@ In this example, we use the Plotly Figure and Scatter classes to create a plot o
 
 We update the Plotly layout to set the x and y axis labels and the plot title. Finally, we use the Streamlit plotly_chart function to display the Plotly figure in the app.
 
-## to run the code:
+###install environment
+```
+https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/requirement.txt
+```
+### to run the code:
 
 ```
 streamlit run https://github.com/ZoldicintheShell/Spring_Interface_viz/blob/main/Spring_Interface_viz.py
